@@ -19,6 +19,7 @@ O objetivo é proporcionar que os endpoints críticos da aplicação, como `logi
 ## 📁 Estrutura do Repositório
 
 BANCO-API-PERFORMANCE/
+```
 ├── config/        # Arquivo de configuração de variáveis de ambiente.
 │   └── config.local.json
 ├── fixtures/      # Dados de entrada para os testes (ex: usuários, payloads).
@@ -32,6 +33,7 @@ BANCO-API-PERFORMANCE/
 │   └── variaveis.js
 ├── html-report.html
 └── README.md
+```
 
 
 ## 🎯 Objetivo de Cada Grupo de Arquivo
